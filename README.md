@@ -1,4 +1,9 @@
 indicator-vpnc
 ==============
 
-Application indicator to show the status of vpnc connection
+Application indicator for Ubuntu to show the status of vpnc connection
+
+
+Requires python-appindicator:
+
+    sudo apt-get install python-appindicator
